@@ -1,0 +1,24 @@
+{
+  "videos": [
+    {
+      "youtubeId": "dQw4w9WgXcQ",
+      "title": "Sweet Dreams (Are Made of This)",
+      "author": "Eurythmics"
+    },
+    {
+      "youtubeId": "oHg5SJYRHA0",
+      "title": "Sandstorm",
+      "author": "Darude"
+    },
+    {
+      "youtubeId": "y6120QOlsfU",
+      "title": "Caramelldansen",
+      "author": "Caramell"
+    },
+    {
+      "youtubeId": "z9Uz1icjwrM",
+      "title": "Numa Numa",
+      "author": "O-Zone"
+    }
+  ]
+}
